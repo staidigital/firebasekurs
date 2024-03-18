@@ -13,8 +13,6 @@ function printTodo(todoList){
     }
 }
 
-
-
 fetch("/newTodo", {
     method: "POST",
     body: JSON.stringify({
