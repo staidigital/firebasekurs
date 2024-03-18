@@ -24,11 +24,3 @@ fetch("/newTodo", {
         "Content-type": "application/json; charset=UTF-8"
     }
 });
-
-
-
-/* todoList.map(item => {
-    itemDiv = docuemnt.createElement("p")
-    itemDiv.innerHtml = item.
-    todoDiv.appendChild()
-}) */
